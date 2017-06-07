@@ -1,0 +1,10 @@
+node_modules/
+.idea/BentukApa.iml
+.idea/jsLibraryMappings.xml
+.idea/libraries/
+.idea/modules.xml
+.idea/php.xml
+.idea/scopes/
+.idea/typescript-compiler.xml
+.idea/workspace.xml
+platforms/
